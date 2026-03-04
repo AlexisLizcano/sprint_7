@@ -23,3 +23,11 @@ La aplicación web ofrece las siguientes capacidades de análisis visual:
 * `app.py`: Archivo principal que contiene la lógica de la aplicación Streamlit.
 * `vehicles_us.csv`: Conjunto de datos utilizado para el análisis.
 * `.streamlit/config.toml`: Configuración del servidor para el despliegue en Render.
+
+## 👤 Autor
+
+**Alexis Gonzalez Lizcano**
+
+- 💼 LinkedIn: [linkedin.com/in/alexis-gonzalez-lizcano](https://www.linkedin.com/in/alexis-gonzalez-lizcano/)
+- 🐙 GitHub: [@AlexisLizcano](https://github.com/AlexisLizcano)
+- 📧 Email: j.alexis.gl004@gmail.com
